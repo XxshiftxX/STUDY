@@ -1,0 +1,5 @@
+D:\SHIFT\programing\realODOC\Csharp\QSS\5_12\삽입정렬\삽입정렬\bin\Debug\삽입정렬.exe
+D:\SHIFT\programing\realODOC\Csharp\QSS\5_12\삽입정렬\삽입정렬\bin\Debug\삽입정렬.pdb
+D:\SHIFT\programing\realODOC\Csharp\QSS\5_12\삽입정렬\삽입정렬\obj\x86\Debug\삽입정렬.csprojResolveAssemblyReference.cache
+D:\SHIFT\programing\realODOC\Csharp\QSS\5_12\삽입정렬\삽입정렬\obj\x86\Debug\삽입정렬.exe
+D:\SHIFT\programing\realODOC\Csharp\QSS\5_12\삽입정렬\삽입정렬\obj\x86\Debug\삽입정렬.pdb

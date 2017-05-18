@@ -1,0 +1,4 @@
+D:\SHIFT\programing\realODOC\Csharp\Csharp__P146__5_9\Csharp__P146__5_9\bin\Debug\Csharp__P146__5_9.exe
+D:\SHIFT\programing\realODOC\Csharp\Csharp__P146__5_9\Csharp__P146__5_9\bin\Debug\Csharp__P146__5_9.pdb
+D:\SHIFT\programing\realODOC\Csharp\Csharp__P146__5_9\Csharp__P146__5_9\obj\x86\Debug\Csharp__P146__5_9.exe
+D:\SHIFT\programing\realODOC\Csharp\Csharp__P146__5_9\Csharp__P146__5_9\obj\x86\Debug\Csharp__P146__5_9.pdb

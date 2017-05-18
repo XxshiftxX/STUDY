@@ -1,0 +1,12 @@
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\NSC.exe
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\NSC.pdb
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\obj\Debug\NSC.exe
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\obj\Debug\NSC.pdb
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\mscorlib.dll
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\ko\mscorlib.resources.dll
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\normidna.nlp
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\normnfc.nlp
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\normnfd.nlp
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\normnfkc.nlp
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Debug\normnfkd.nlp
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\obj\Debug\NSC.csprojResolveAssemblyReference.cache

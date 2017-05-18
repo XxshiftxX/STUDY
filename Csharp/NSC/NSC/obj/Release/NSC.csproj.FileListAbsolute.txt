@@ -1,0 +1,4 @@
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Release\NSC.exe
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\bin\Release\NSC.pdb
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\obj\Release\NSC.exe
+D:\SHIFT\programing\realODOC\Csharp\NSC\NSC\obj\Release\NSC.pdb

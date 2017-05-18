@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="상속과_형변환\상속과_형변환.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="상속과_형변환\Program.cs">
+    <Files>
+      <File FileName="..\NSC\NSC\Program.cs" Line="140" Column="8" />
+      <File FileName="상속과_형변환\Program.cs" Line="19" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

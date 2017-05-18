@@ -1,0 +1,4 @@
+D:\SHIFT\programing\realODOC\Csharp\study\study\bin\Debug\study.exe
+D:\SHIFT\programing\realODOC\Csharp\study\study\bin\Debug\study.pdb
+D:\SHIFT\programing\realODOC\Csharp\study\study\obj\x86\Debug\study.exe
+D:\SHIFT\programing\realODOC\Csharp\study\study\obj\x86\Debug\study.pdb
