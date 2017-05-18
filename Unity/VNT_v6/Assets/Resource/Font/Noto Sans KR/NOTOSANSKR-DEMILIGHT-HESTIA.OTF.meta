@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3ebc3324927cce44a852a8de13d46f2f
+timeCreated: 1495115761
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noto Sans KR
+  fontNames:
+  - Noto Sans KR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0d578ec08f271b7459e22a17d53f50b6, type: 3}
+  - {fileID: 12800000, guid: 0a68796eb87fc384aa86cec5aef06f15, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
