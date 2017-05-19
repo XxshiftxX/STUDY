@@ -53,4 +53,23 @@ void main()
 		if(i % 10 == 0)
 			printf("\n");
 	}
+	
+	int key;
+	scanf("%d", &key);
+	
+	int l = 1, r = 100, m;
+	while(l < r && arr[m] != key)
+	{
+		if(arr[m] > key)
+			r = m - 1;
+		else
+			l = m + 1;
+			
+		m = (l+r) / 2;
+	}
+	
+	if (arr[m] == key)
+		printf("%d  ¹ÌÃ÷ÄÉÅ¸~   >> %d << ¿ä±âÀ×¤·³×~", key, m);
+	else
+		printf("½Å´Ù");
 }
