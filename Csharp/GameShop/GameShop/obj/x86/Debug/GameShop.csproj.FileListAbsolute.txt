@@ -1,0 +1,4 @@
+D:\SHIFT\programing\Coding\Csharp\GameShop\GameShop\bin\Debug\GameShop.exe
+D:\SHIFT\programing\Coding\Csharp\GameShop\GameShop\bin\Debug\GameShop.pdb
+D:\SHIFT\programing\Coding\Csharp\GameShop\GameShop\obj\x86\Debug\GameShop.exe
+D:\SHIFT\programing\Coding\Csharp\GameShop\GameShop\obj\x86\Debug\GameShop.pdb
